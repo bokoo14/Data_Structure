@@ -1,0 +1,4 @@
+﻿  02.c
+C:\Users\82107\Desktop\자료구조&응용\자료구조응용 과제\DS 14\DS 14\02\02.c(339,15): warning C4133: '함수': 'FILE *'과(와) 'const char *const ' 사이의 형식이 호환되지 않습니다.
+C:\Users\82107\Desktop\자료구조&응용\자료구조응용 과제\DS 14\DS 14\02\02.c(355,14): warning C4101: 'item' :참조되지 않은 지역 변수입니다.
+  02.vcxproj -> C:\Users\82107\Desktop\자료구조&응용\자료구조응용 과제\DS 14\DS 14\Debug\02.exe

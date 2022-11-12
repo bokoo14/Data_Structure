@@ -1,0 +1,7 @@
+﻿  03.c
+C:\Users\82107\Desktop\자료구조&응용\자료구조응용 과제\DS 02\자료구조응용과제2_2020118008\03\03.c(19,19): warning C4047: '=': 'int *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\82107\Desktop\자료구조&응용\자료구조응용 과제\DS 02\자료구조응용과제2_2020118008\03\03.c(15,15): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\82107\Desktop\자료구조&응용\자료구조응용 과제\DS 02\자료구조응용과제2_2020118008\03\03.c(16,16): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\82107\Desktop\자료구조&응용\자료구조응용 과제\DS 02\자료구조응용과제2_2020118008\03\03.c(18,2): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\82107\Desktop\자료구조&응용\자료구조응용 과제\DS 02\자료구조응용과제2_2020118008\03\03.c(37,10): warning C4047: 'return': 'int'의 간접 참조 수준이 'int *'과(와) 다릅니다.
+C:\Users\82107\Desktop\자료구조&응용\자료구조응용 과제\DS 02\자료구조응용과제2_2020118008\03\03.c(46,3): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.

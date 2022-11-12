@@ -1,0 +1,11 @@
+﻿  02.c
+C:\Users\82107\Desktop\자료구조&응용\자료구조응용 과제\DS 23\DS 23\02\02.c(81,9): warning C4013: 'strcpy'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\82107\Desktop\자료구조&응용\자료구조응용 과제\DS 23\DS 23\02\02.c(82,31): warning C4013: 'stringToInt'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\82107\Desktop\자료구조&응용\자료구조응용 과제\DS 23\DS 23\02\02.c(94,41): warning C4133: '=': 'element *'과(와) 'nodePointer' 사이의 형식이 호환되지 않습니다.
+C:\Users\82107\Desktop\자료구조&응용\자료구조응용 과제\DS 23\DS 23\02\02.c(115,14): warning C4013: 'strcmp'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\82107\Desktop\자료구조&응용\자료구조응용 과제\DS 23\DS 23\02\02.c(63,6): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+C:\Users\82107\Desktop\자료구조&응용\자료구조응용 과제\DS 23\DS 23\02\02.c(143,37): warning C4142: 'stringToInt': 형식이 재정의되었지만 심각하지는 않습니다.
+C:\Users\82107\Desktop\자료구조&응용\자료구조응용 과제\DS 23\DS 23\02\02.c(167,66): warning C4133: '=': 'element *'과(와) 'nodePointer' 사이의 형식이 호환되지 않습니다.
+C:\Users\82107\Desktop\자료구조&응용\자료구조응용 과제\DS 23\DS 23\02\02.c(169,25): warning C4133: '=': 'nodePointer'과(와) 'element *' 사이의 형식이 호환되지 않습니다.
+C:\Users\82107\Desktop\자료구조&응용\자료구조응용 과제\DS 23\DS 23\02\02.c(186,65): warning C4133: '=': 'element *'과(와) 'nodePointer' 사이의 형식이 호환되지 않습니다.
+  02.vcxproj -> C:\Users\82107\Desktop\자료구조&응용\자료구조응용 과제\DS 23\DS 23\Debug\02.exe

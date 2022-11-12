@@ -1,0 +1,4 @@
+﻿  02.c
+C:\Users\82107\Desktop\자료구조&응용\자료구조응용 과제\DS 06\DS 06\02\02.c(45,7): warning C4013: 'gets'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\82107\Desktop\자료구조&응용\자료구조응용 과제\DS 06\DS 06\02\02.c(36,6): warning C4101: 'cnt' :참조되지 않은 지역 변수입니다.
+  02.vcxproj -> C:\Users\82107\Desktop\자료구조&응용\자료구조응용 과제\DS 06\DS 06\Debug\02.exe
